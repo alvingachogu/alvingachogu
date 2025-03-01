@@ -29,5 +29,5 @@ Contributions
 
 Feel free to browse my repositories and contribute if you find anything interesting. If you have any suggestions or feedback, please don't hesitate to reach out.
 
-Thank you for visiting my GitHub profile!
+
 
